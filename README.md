@@ -19,3 +19,5 @@ During the course. We dove into Testing and how to use Jasmine. My task was to b
 **How to Run Appilcation**
 Download repositrory from [here](https://github.com/MORGSY/frontend-nanodegree-feedreader/). Then open the index.html file in a browser.
 
+- if this catches your attention. Check out the Full Course on [Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+
